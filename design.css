@@ -7,6 +7,10 @@ article h1 {
     text-transform: uppercase;
 }
 
+a {
+    cursor: pointer;
+}
+
 header {
     background-color: brown;
     color: white;
